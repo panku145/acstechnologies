@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154.421" height="148.193" viewBox="0 0 154.421 148.193">
+  <g id="Group_28428" data-name="Group 28428" transform="translate(-1248.145 -923)">
+    <path id="Path_25194" data-name="Path 25194" d="M51.295,0c23.578-.052,63.933,50.47,63.933,80.236s-7.285,44.692-41.612,44.692S0,107.815,0,78.049,27.716.052,51.295,0Z" transform="matrix(0.309, 0.951, -0.951, 0.309, 1366.959, 923)" fill="#3baad3"/>
+    <g id="Group_28409" data-name="Group 28409" transform="translate(2.263 2.515)">
+      <g id="Icon_feather-database" data-name="Icon feather-database" transform="translate(1302.144 975.382)">
+        <path id="Path_31560" data-name="Path 31560" d="M76.686,15.031c0,6.644-16.159,12.031-36.093,12.031S4.5,21.675,4.5,15.031,20.659,3,40.593,3,76.686,8.386,76.686,15.031Z" transform="translate(-4.5 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_31561" data-name="Path 31561" d="M76.686,18c0,6.657-16.041,12.031-36.093,12.031S4.5,24.657,4.5,18" transform="translate(-4.5 22.103)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_31562" data-name="Path 31562" d="M4.5,7.5V63.644c0,6.657,16.041,12.031,36.093,12.031S76.686,70.3,76.686,63.644V7.5" transform="translate(-4.5 4.531)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <circle id="Ellipse_914" data-name="Ellipse 914" cx="3.5" cy="3.5" r="3.5" transform="translate(1360.737 1007.485)"/>
+      <circle id="Ellipse_915" data-name="Ellipse 915" cx="3.5" cy="3.5" r="3.5" transform="translate(1361.737 1033.485)"/>
+    </g>
+  </g>
+</svg>

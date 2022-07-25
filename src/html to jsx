@@ -1,0 +1,274 @@
+image => <img src={sliders} className=".." alt=".." />
+<a> =>
+  <Link to="/tax_planning" className="..">....</Link>
+  <---- import { Link } from "react-router-dom" ; ----->
+    class => className=".."
+    background-image => style={{ backgroundImage: `url(${Background})`, }}
+
+    anthor anchor Link =>
+    <Link onClick={()=> window.open("your-link","_blank")}>
+
+
+
+
+
+
+
+
+
+    <div className="divider"></div>
+    <hr />
+
+
+
+    <----------------- for spiner --------------------->
+
+      Link :- https://www.npmjs.com/package/react-spinners
+
+      npm install --save react-spinners
+
+      in app.js -> import React, {useState, useEffect} from "react";
+
+      function App() {
+      const [loading, setLoadig] = useState(false);
+      useState(() => {
+      setLoadig(true);
+      setTimeout(() => {
+      setLoadig(false);
+      }, 3000);
+      }, []);
+
+      return (
+      <div className="App">
+        {
+        loading
+        ?
+        <div className="finspinner">
+          <HashLoader color={"#a61c20"} loading={loading} size={70} />
+        </div>
+        :
+
+        ..............
+        ..........
+        }
+      </div>
+
+
+      <!-- 
+      <div className="container">
+        <div className="row footer-row">
+          <div className="col-md-3 first-li-col">
+            <ul>
+              <li id="company-li">
+                <Link to="#">
+                <h5>Company</h5>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link to="/about-us" id="hover-underline-animation">
+                <h6>About Us</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link to="#" id="hover-underline-animation">
+                <h6>Our Work</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link to="#" id="hover-underline-animation">
+                <h6>News</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link to="/#" id="hover-underline-animation">
+                <h6>Pricing</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link to="/blog" id="hover-underline-animation">
+                <h6>Blogs</h6>
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div className="col-md-3 second-li-col" style={{ backgroundImage: `url(${Background})` }}>
+            <ul>
+              <li id="company-li">
+                <Link to="#">
+                <h5>Services</h5>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/web-designing">
+                <h6>Web Designing</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/development">
+                <h6>Web Development</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/graphic-designing">
+                <h6>Graphic Designing</h6>
+                </Link>
+              </li>
+              {/* <li className="footer-li">
+                <Link id="hover-underline-animation" to="/digital-marketing">
+                <h6>Digital Marketing</h6>
+                </Link>
+              </li> */}
+            </ul>
+          </div>
+          <div className="col-md-3 third-li-col" style={{ backgroundImage: `url(${Background})` }}>
+            <ul>
+              <li id="company-li">
+                <Link to="#">
+                <h5>Technologies</h5>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/node">
+                <h6>Node JS</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/angular">
+                <h6>Angular</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/react">
+                <h6>React</h6>
+                </Link>
+              </li>
+              <li className="footer-li">
+                <Link id="hover-underline-animation" to="/wordpress">
+                <h6>WordPress</h6>
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div className="col-md-3 fourth-li-col">
+            <ul>
+              <li className="footer-icon">
+                <div className="row icon-row py-2">
+                  <div className="col-3 col-sm-3 icon-img upwork">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://www.upwork.com/agencies/~014072c3ea1dc1505f",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={upwork} className="upwork" alt="upwork" />
+                    </a>
+                  </div>
+                  <div className="col-3 col-sm-3 icon-img facebook">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://www.facebook.com/ACS-Technologies-106353348547515",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={facebook} className="facebook" alt="facebook" />
+                    </a>
+                  </div>
+                  <div className="col-3 col-sm-3 icon-img">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://www.linkedin.com/company/acstechnologies-official/",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={linkedin} className="linkedin" alt="linkedin" />
+                    </a>
+                  </div>
+                  <div className="col-3 col-sm-3 icon-img">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://www.instagram.com/acs_technologies/",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={insta} className="insta" alt="insta" />
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li className="footer-li">
+                <div className="row icon-row-sec">
+                  <div className="col-3 icon-img dribbel">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://dribbble.com/ACSTechnologies",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={dribbel} className="dribbel" alt="dribbel" />
+                    </a>
+                  </div>
+                  <div className="col-3 icon-img behance">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://www.behance.net/acstechnologies",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={behance} className="behance" alt="behance" />
+                    </a>
+                  </div>
+                  <div className=" col-3 icon-img pintrest">
+                    <a className="social-link" onClick={()=>
+                      window.open(
+                      "https://in.pinterest.com/acstechnologies2021/",
+                      "_blank"
+                      )
+                      }
+                      >
+                      <img src={pintrest} className="pintrest" alt="pintrest" />
+                    </a>
+                  </div>
+                  <div className="hr-line me-4"></div>
+                </div>
+              </li>
+              <li className="footer-li last-third py-1 pe-2">
+                <h6>info@acstechnologies.net</h6>
+              </li>
+              <li className="footer-li last-third py-1 pe-2">
+                <h6>+91 781 7093 789</h6>
+              </li>
+              <li className="footer-li last-third py-1 pe-2" id="country-li">
+                <strong>India Office</strong>
+              </li>
+
+              <li className="footer-li last-third py-1 pe-2">
+                <h6 style={{ lineHeight: 1.8 }}>
+                  ACS Networks & Technologies, Negi Tower, Dhorankhas,
+                  Sahastradhara Rd, near Sethi Petrol Pump, Dehradun
+                </h6>
+              </li>
+              <li className="footer-li last-third py-1 pe-2" id="country-li">
+                <strong>US Office</strong>
+              </li>
+
+              <li className="footer-li last-third py-1 pe-2">
+                <h6 style={{ lineHeight: 1.8 }}>
+                  39 cedar St, Jersey City - <br /> New Jersey 07305
+                </h6>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div className="bottom-footer py-3">
+        <p>
+          Copyright © 2022 ACS Networks & Technologies(Aadira Cyber Systems
+          Networks & Technologies Pvt. Ltd.). All Rights Reserved
+        </p>
+      </div> -->

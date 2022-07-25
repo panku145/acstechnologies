@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="Issue_Detection" transform="translate(-231 -1554)">
+    <g id="Ellipse_904" data-name="Ellipse 904" transform="translate(231 1554)" fill="#f9f9f9" stroke="#f24b57" stroke-width="3">
+      <circle cx="42" cy="42" r="42" stroke="none"/>
+      <circle cx="42" cy="42" r="40.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_905" data-name="Ellipse 905" cx="30" cy="30" r="30" transform="translate(243 1566)" fill="#f24b57"/>
+    <g id="Octicons" transform="translate(258.313 1580.313)">
+      <g id="issue-opened" transform="translate(0 1)">
+        <path id="Shape" d="M14.688,3.728a11.96,11.96,0,1,1-11.96,11.96,11.981,11.981,0,0,1,11.96-11.96Zm0-2.728A14.687,14.687,0,1,0,29.375,15.688,14.7,14.7,0,0,0,14.688,1Zm2.1,6.295h-4.2V17.786h4.2Zm0,12.589h-4.2v4.2h4.2Z" transform="translate(0 -1)" fill="#f9f9f9" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
