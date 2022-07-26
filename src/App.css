@@ -2900,6 +2900,32 @@ h5 {
   font-weight: bolder;
 }
 
+.faq-heading button {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  color: #000;
+}
+
+.faq-accordion-sec .accordion-button:focus {
+  border: none;
+  box-shadow: none;
+}
+
+.faq-accordion-sec .accordion-item {
+  border: none;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.478);
+}
+
+.faq-accordion-sec .accordion-button:not(.collapsed) {
+  background-color: transparent;
+}
+
+.faq-accordion-sec .accordion-body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: #000;
+}
+
 @media screen and (max-width: 1024px) {
   .vision-img-sec img {
     width: 100%;
@@ -3969,9 +3995,124 @@ h5 {
 
 /* email marketing */
 
-.email-marketing-sec img {
+.em-pera {
+  color: #ffb623;
+  font-size: 20px;
+}
+
+.em-heading {
+  font-family: "Montserrat";
+  color: #fff;
+  font-weight: 600;
+  text-align: left;
+  text-align: initial;
+  font-size: 22px;
+  text-transform: uppercase;
+  line-height: 2rem;
+  letter-spacing: 1px;
+}
+
+.em-pera-2 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 2rem;
+  letter-spacing: 2px;
+}
+
+.em-slide-img {
+  width: 70%;
+}
+
+.email-let-us-section {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.list-text,
+.sec-3-heading {
+  font-family: "Montserrat";
+  color: #000;
+}
+
+.list-img {
+  width: 80px;
+}
+
+.list-text {
+  text-align: left;
+  text-align: initial;
+  font-weight: 600;
+  font-size: 14px;
+  padding-left: 50px;
+}
+
+.list-center-img {
   width: 100%;
 }
+
+.sec-3-heading {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.ProcessImg {
+  width: 80%;
+}
+
+.strategy-sec {
+  overflow: hidden;
+}
+
+.em-sec {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.col1row1 {
+  padding-bottom: 100px;
+}
+
+.col1row2 {
+  background-color: #fff;
+  border-radius: 0 20px 0 20px;
+  padding: 30px;
+}
+
+.TemplateDesign {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.em-sec4-heding,
+.em-sec4-pera {
+  font-family: "Montserrat";
+  color: #000;
+  line-height: 1.5rem;
+}
+
+.em-sec4-heding,
+.em-sec4-pera {
+  font-family: "Montserrat";
+  color: #000;
+  line-height: 1.5rem;
+}
+
+.em-sec4-heding {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.em-sec4-pera {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.em-why-img {
+  width: 100%;
+}
+
 /* email marketing */
 
 @media screen and (max-width: 480px) {

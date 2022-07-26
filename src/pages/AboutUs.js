@@ -5,6 +5,7 @@ import Design from "../images/Design.svg";
 import Develop from "../images/Develop.svg";
 import DM from "../images/DM.svg";
 import Loader from "../components/Loader";
+import Faq from "../components/Faq";
 
 function AboutUs() {
   useEffect(() => {
@@ -172,6 +173,10 @@ function AboutUs() {
               </div>
             </div>
           </div>
+        </div>
+
+        <div className="faq-accodion-sec">
+          <Faq />
         </div>
       </>
     );

@@ -40,16 +40,14 @@ function Home() {
     return (
       <>
         <Helmet>
-          <title>
-            Website Development & Desiging services: ACS Networks & Technologies
-          </title>
+          <title>Website Development In India | Web Design Services</title>
           <meta
             name="description"
-            content="India-based custom Web Development & website designing company. Delivering result-oriented strategies and campaigns for small and large enterprises. "
+            content="We provide best website development services in India. Contact us for website design, and digital marketing services solutions."
           />
           <meta
             name="keywords"
-            content="top website development company dehradun India , best ecommerce website development/ designing company dehradun India, B2B advertising dehradun India , top B2B marketing companies dehradun India "
+            content="Website Development Company in India, Website Designing Service in India, Digital Marketing Services in India  "
           />
         </Helmet>
         <Slider />
