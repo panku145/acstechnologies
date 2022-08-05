@@ -54,11 +54,11 @@ const WordpressPage = () => {
             content="wordpress development company, wordpress website designer, WordPress development services, WordPress E-commerce Development"
           />
         </Helmet>
-        <div class="reactjs-hero-sec">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-5 react-img-col">
-                <div class="react-js-img">
+        <div className="reactjs-hero-sec">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-5 react-img-col">
+                <div className="react-js-img">
                   <img
                     src={wordpressLogo}
                     className="wordpressLogo"
@@ -66,9 +66,9 @@ const WordpressPage = () => {
                   />
                 </div>
               </div>
-              <div class="col-md-7 m-auto">
-                <div class="hero-sec-txt react-js-txt">
-                  <div class="button-req design-hero-btn web-design-btn react-js-button">
+              <div className="col-md-7 m-auto">
+                <div className="hero-sec-txt react-js-txt">
+                  <div className="button-req design-hero-btn web-design-btn react-js-button">
                     <button>Web Development</button>
                   </div>
                   <h2>
@@ -87,22 +87,22 @@ const WordpressPage = () => {
           </div>
         </div>
 
-        <div class="react-js-three-component">
-          <div class="container">
-            <div class="row  react-js-rw">
+        <div className="react-js-three-component">
+          <div className="container">
+            <div className="row  react-js-rw">
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec ">
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec ">
                     <img
                       src={easySimple}
                       className="easySimple"
                       alt="easySimple"
                     />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>Entirely Customizable</h4>
                     <p>
                       It's possible to build almost any type of site you'd like,
@@ -112,14 +112,14 @@ const WordpressPage = () => {
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec">
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec">
                     <img src={theme} className="theme" alt="theme" />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>
                       Theme <br />
                       Development
@@ -132,14 +132,14 @@ const WordpressPage = () => {
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec">
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec">
                     <img src={plugin} className="plugin" alt="plugin" />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>
                       Easy <br /> to Maintain
                     </h4>
@@ -156,18 +156,18 @@ const WordpressPage = () => {
           </div>
         </div>
 
-        <div class="hire-designers pb-5 why-react-js">
-          <div class="container">
-            <div class="row gx-5">
-              <div class="col-md-5 designer-col py-4">
-                <div class="hire-designer-bg react-why-us-img">
+        <div className="hire-designers pb-5 why-react-js">
+          <div className="container">
+            <div className="row gx-5">
+              <div className="col-md-5 designer-col py-4">
+                <div className="hire-designer-bg react-why-us-img">
                   <img src={wordLap} className="wordLap" alt="wordLap" />
                 </div>
               </div>
-              <div class="col-md-6 react-why-us-col">
-                <div class="line-design-head pb-3 hire-designers-head react-js-head">
+              <div className="col-md-6 react-why-us-col">
+                <div className="line-design-head pb-3 hire-designers-head react-js-head">
                   <h2>Why WordPress ?</h2>
-                  <div class="dev-hr-line react-underline"></div>
+                  <div className="dev-hr-line react-underline"></div>
                   <p>
                     With WordPress accounting for roughly one-third of websites
                     across the globe, you can rest assured that your site will
@@ -179,7 +179,7 @@ const WordpressPage = () => {
                     Above all it is easy to maintain from both users as well as
                     Developer's Perspective.
                   </p>
-                  <div class="button-req design-hero-btn web-design-btn react-js-button react-hire-us">
+                  <div className="button-req design-hero-btn web-design-btn react-js-button react-hire-us">
                     <button>Hire Us Now</button>
                   </div>
                 </div>
@@ -188,10 +188,10 @@ const WordpressPage = () => {
           </div>
         </div>
 
-        <div class="nodejs-dev py-5 text-center">
-          <div class="container">
-            <div class="row py-5">
-              <div class="nodejs-img">
+        <div className="nodejs-dev py-5 text-center">
+          <div className="container">
+            <div className="row py-5">
+              <div className="nodejs-img">
                 <img src={wordCompo} className="wordCompo" alt="wordCompo" />
               </div>
             </div>

@@ -37,21 +37,20 @@ const AngularPage = () => {
         <Loader />
       </div>
     );
-  }
-  else {
+  } else {
     return (
       <>
-        <div class="reactjs-hero-sec">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-5 react-img-col">
-                <div class="react-js-img">
+        <div className="reactjs-hero-sec">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-5 react-img-col">
+                <div className="react-js-img">
                   <img src={angular} className="angular" alt="angular" />
                 </div>
               </div>
-              <div class="col-md-7 m-auto">
-                <div class="hero-sec-txt react-js-txt">
-                  <div class="button-req design-hero-btn web-design-btn react-js-button">
+              <div className="col-md-7 m-auto">
+                <div className="hero-sec-txt react-js-txt">
+                  <div className="button-req design-hero-btn web-design-btn react-js-button">
                     <button>Web Development</button>
                   </div>
                   <h2>
@@ -68,18 +67,18 @@ const AngularPage = () => {
           </div>
         </div>
 
-        <div class="react-js-three-component">
-          <div class="container">
-            <div class="row  react-js-rw">
+        <div className="react-js-three-component">
+          <div className="container">
+            <div className="row  react-js-rw">
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec ">
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec ">
                     <img src={code} className="code" alt="code" />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>Cross-Platform</h4>
                     <p>
                       With Angular, you can develop progressive web applications
@@ -89,35 +88,39 @@ const AngularPage = () => {
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec">
-                    <img src={enjection} className="enjection" alt="enjection" />
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec">
+                    <img
+                      src={enjection}
+                      className="enjection"
+                      alt="enjection"
+                    />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>High Speed and Performance</h4>
                     <p>
-                      Loading time of Angular apps is faster than any other front
-                      end framework.
+                      Loading time of Angular apps is faster than any other
+                      front end framework.
                     </p>
                   </div>
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-4 col-sm-12 react-js-col"
+                className="col-lg-3 col-md-4 col-sm-12 react-js-col"
                 id="wordpress-col"
               >
-                <div class="react-js-inner-sec">
-                  <div class="measerable-img pb-4 react-js-img-sec">
+                <div className="react-js-inner-sec">
+                  <div className="measerable-img pb-4 react-js-img-sec">
                     <img src={binding} className="binding" alt="binding" />
                   </div>
-                  <div class="measerable-txt word-txt reactjs-txt">
+                  <div className="measerable-txt word-txt reactjs-txt">
                     <h4>Productivity</h4>
                     <p>
-                      Quickly create UI views, start building fast, add components
-                      and tests, then instantly deploy.
+                      Quickly create UI views, start building fast, add
+                      components and tests, then instantly deploy.
                     </p>
                   </div>
                 </div>
@@ -126,11 +129,11 @@ const AngularPage = () => {
           </div>
         </div>
 
-        <div class="hire-designers pb-5 why-react-js">
-          <div class="container">
-            <div class="row gx-5">
-              <div class="col-md-5 designer-col py-4">
-                <div class="hire-designer-bg react-why-us-img">
+        <div className="hire-designers pb-5 why-react-js">
+          <div className="container">
+            <div className="row gx-5">
+              <div className="col-md-5 designer-col py-4">
+                <div className="hire-designer-bg react-why-us-img">
                   <img
                     src={angularLappy}
                     className="angularLappy"
@@ -138,25 +141,25 @@ const AngularPage = () => {
                   />
                 </div>
               </div>
-              <div class="col-md-6 react-why-us-col">
-                <div class="line-design-head pb-3 hire-designers-head react-js-head">
+              <div className="col-md-6 react-why-us-col">
+                <div className="line-design-head pb-3 hire-designers-head react-js-head">
                   <h2>Why Angular ?</h2>
-                  <div class="dev-hr-line react-underline"></div>
+                  <div className="dev-hr-line react-underline"></div>
                   <p>
-                    Being a popular front end framework , Angular is feature-rich
-                    and allows developing mind-blowing applications, but also
-                    enables the creation of high-end animations to enhance the
-                    user experience. The API of Angular is so intuitive that
-                    developers can brew complex choreographic as well as animation
-                    with low code.
+                    Being a popular front end framework , Angular is
+                    feature-rich and allows developing mind-blowing
+                    applications, but also enables the creation of high-end
+                    animations to enhance the user experience. The API of
+                    Angular is so intuitive that developers can brew complex
+                    choreographic as well as animation with low code.
                   </p>
 
                   <p>
-                    Version 12 of its TypeScript-based web framework was released
-                    in May 2021. Angular is still the most popular framework among
-                    developers.
+                    Version 12 of its TypeScript-based web framework was
+                    released in May 2021. Angular is still the most popular
+                    framework among developers.
                   </p>
-                  <div class="button-req design-hero-btn web-design-btn react-js-button react-hire-us">
+                  <div className="button-req design-hero-btn web-design-btn react-js-button react-hire-us">
                     <button>Hire Us Now</button>
                   </div>
                 </div>
@@ -165,10 +168,10 @@ const AngularPage = () => {
           </div>
         </div>
 
-        <div class="nodejs-dev py-5 text-center">
-          <div class="container">
-            <div class="row py-5">
-              <div class="nodejs-img">
+        <div className="nodejs-dev py-5 text-center">
+          <div className="container">
+            <div className="row py-5">
+              <div className="nodejs-img">
                 <img
                   src={angularCompo}
                   className="angularCompo"
@@ -180,7 +183,7 @@ const AngularPage = () => {
         </div>
       </>
     );
-  };
-}
+  }
+};
 
 export default AngularPage;

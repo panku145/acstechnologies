@@ -30,15 +30,15 @@ const SAP = () => {
                 </p>
                 <ul className="hire-sap-ul">
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Build Your Dedicated
-                    Development Team
+                    <i className="fa-solid fa-circle-check"></i>Build Your
+                    Dedicated Development Team
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Work Across Global
-                    Time Zones.
+                    <i className="fa-solid fa-circle-check"></i>Work Across
+                    Global Time Zones.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Can be tracked
+                    <i className="fa-solid fa-circle-check"></i>Can be tracked
                     through project management tools.
                   </li>
                 </ul>
@@ -63,28 +63,28 @@ const SAP = () => {
                 </h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Writing ABAP code
-                    for the client's application modules
+                    <i className="fa-solid fa-circle-check"></i>Writing ABAP
+                    code for the client's application modules
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Allocating resources
-                    to complete client projects
+                    <i className="fa-solid fa-circle-check"></i>Allocating
+                    resources to complete client projects
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Assisting end-users
-                    with troubleshooting procedures
+                    <i className="fa-solid fa-circle-check"></i>Assisting
+                    end-users with troubleshooting procedures
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>SAP training for end
-                    users
+                    <i className="fa-solid fa-circle-check"></i>SAP training for
+                    end users
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Conducting usability
-                    tests before releasing an update
+                    <i className="fa-solid fa-circle-check"></i>Conducting
+                    usability tests before releasing an update
                   </li>
                   <li className="duties-list flex-list">
-                    <i class="fa-solid fa-circle-check"></i>Collaboration with
-                    employees from different departments to develop an SAP
+                    <i className="fa-solid fa-circle-check"></i>Collaboration
+                    with employees from different departments to develop an SAP
                     solution.
                   </li>
                 </ul>

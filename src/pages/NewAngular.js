@@ -56,15 +56,15 @@ const NewAngular = () => {
                 </p>
                 <ul className="hire-sap-ul">
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Develop a team of
-                    dedicated front end angular developers
+                    <i className="fa-solid fa-circle-check"></i>Develop a team
+                    of dedicated front end angular developers
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Work Across Global
-                    Time Zones.
+                    <i className="fa-solid fa-circle-check"></i>Work Across
+                    Global Time Zones.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Can be tracked
+                    <i className="fa-solid fa-circle-check"></i>Can be tracked
                     through project management tools.
                   </li>
                 </ul>
@@ -87,23 +87,23 @@ const NewAngular = () => {
                 <h3 className="duties-heading">Benefits of using angular</h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Cross-Platform
+                    <i className="fa-solid fa-circle-check"></i>Cross-Platform
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>High Speed and
+                    <i className="fa-solid fa-circle-check"></i>High Speed and
                     Performance
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Quickly create UI
-                    view
+                    <i className="fa-solid fa-circle-check"></i>Quickly create
+                    UI view
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>can develop
+                    <i className="fa-solid fa-circle-check"></i>can develop
                     progressive web applications
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Assisting end-users
-                    with bug fixing and troubleshooting procedures
+                    <i className="fa-solid fa-circle-check"></i>Assisting
+                    end-users with bug fixing and troubleshooting procedures
                   </li>
                 </ul>
               </div>

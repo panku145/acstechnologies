@@ -34,7 +34,7 @@ const Career = () => {
           <div className="row scroll-btn-row">
             <div className="scroll-down-btn">
               <button>
-                <i class="fa-solid fa-arrow-down"></i>
+                <i className="fa-solid fa-arrow-down"></i>
               </button>
             </div>
           </div>
@@ -57,7 +57,7 @@ const Career = () => {
           <div className="row py-5 benefis-rw">
             <div className="col-md-4">
               <div className="inner-benefit-sec">
-                <i class="fa-solid fa-face-smile"></i>
+                <i className="fa-solid fa-face-smile"></i>
                 <h4>
                   Fun <br />
                   Team
@@ -70,7 +70,7 @@ const Career = () => {
             </div>
             <div className="col-md-4">
               <div className="inner-benefit-sec">
-                <i class="fa-solid fa-handshake"></i>
+                <i className="fa-solid fa-handshake"></i>
                 <h4>
                   Friendly
                   <br />
@@ -84,7 +84,7 @@ const Career = () => {
             </div>
             <div className="col-md-4">
               <div className="inner-benefit-sec">
-                <i class="fa-solid fa-chart-line"></i>
+                <i className="fa-solid fa-chart-line"></i>
                 <h4>
                   Career <br /> Growth
                 </h4>

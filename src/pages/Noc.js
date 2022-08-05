@@ -81,31 +81,31 @@ const Noc = () => {
                 <h3 className="duties-heading">SOC CORE Responsibilities</h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Investigating
+                    <i className="fa-solid fa-circle-check"></i>Investigating
                     Potential Incidents
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Triaging and
+                    <i className="fa-solid fa-circle-check"></i>Triaging and
                     Prioritizing Detected Incidents
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Coordinating an
+                    <i className="fa-solid fa-circle-check"></i>Coordinating an
                     Incident Response
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Maintaining
+                    <i className="fa-solid fa-circle-check"></i>Maintaining
                     Relevance
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Rapidly Responding
-                    to Attacks
+                    <i className="fa-solid fa-circle-check"></i>Rapidly
+                    Responding to Attacks
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Patching Vulnerable
-                    Systems
+                    <i className="fa-solid fa-circle-check"></i>Patching
+                    Vulnerable Systems
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Reporting to
+                    <i className="fa-solid fa-circle-check"></i>Reporting to
                     Management
                   </li>
                 </ul>
@@ -122,31 +122,32 @@ const Noc = () => {
                 <h3 className="duties-heading">NOC CORE Responsibilities</h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Monitors multiple
-                    networks and systems
+                    <i className="fa-solid fa-circle-check"></i>Monitors
+                    multiple networks and systems
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Maintain uptime for
-                    all IT systems
+                    <i className="fa-solid fa-circle-check"></i>Maintain uptime
+                    for all IT systems
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Monitor network
+                    <i className="fa-solid fa-circle-check"></i>Monitor network
                     errors, malware, and all issues pertaining to security
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Troubleshooting and
-                    Resolution
+                    <i className="fa-solid fa-circle-check"></i>Troubleshooting
+                    and Resolution
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Alarm Handling and
-                    Escalation:
+                    <i className="fa-solid fa-circle-check"></i>Alarm Handling
+                    and Escalation:
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Client Interaction
+                    <i className="fa-solid fa-circle-check"></i>Client
+                    Interaction
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Documentation and
-                    Reporting
+                    <i className="fa-solid fa-circle-check"></i>Documentation
+                    and Reporting
                   </li>
                 </ul>
               </div>

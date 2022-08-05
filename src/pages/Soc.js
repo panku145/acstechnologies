@@ -84,20 +84,21 @@ const SOC = () => {
                   </p>
                   <ul className="hire-sap-ul">
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>network
+                      <i className="fa-solid fa-circle-check"></i>network
                       administration.
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Network Support
+                      <i className="fa-solid fa-circle-check"></i>Network
+                      Support
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Management
+                      <i className="fa-solid fa-circle-check"></i>Management
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Switching
+                      <i className="fa-solid fa-circle-check"></i>Switching
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>routing
+                      <i className="fa-solid fa-circle-check"></i>routing
                     </li>
                   </ul>
                 </div>
@@ -124,31 +125,33 @@ const SOC = () => {
                   <h3 className="duties-heading">CORE Responsibilities</h3>
                   <ul className="duties-ul">
                     <li className="duties-list">
-                      <i class="fa-solid fa-circle-check"></i>Monitors multiple
-                      networks and systems
+                      <i className="fa-solid fa-circle-check"></i>Monitors
+                      multiple networks and systems
                     </li>
                     <li className="duties-list">
-                      <i class="fa-solid fa-circle-check"></i>Maintain uptime
-                      for all IT systems
+                      <i className="fa-solid fa-circle-check"></i>Maintain
+                      uptime for all IT systems
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Monitor network
-                      errors, malware, and all issues pertaining to security
+                      <i className="fa-solid fa-circle-check"></i>Monitor
+                      network errors, malware, and all issues pertaining to
+                      security
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Troubleshooting
-                      and Resolution
+                      <i className="fa-solid fa-circle-check"></i>
+                      Troubleshooting and Resolution
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Alarm Handling and
-                      Escalation:
+                      <i className="fa-solid fa-circle-check"></i>Alarm Handling
+                      and Escalation:
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Client Interaction
+                      <i className="fa-solid fa-circle-check"></i>Client
+                      Interaction
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Documentation and
-                      Reporting
+                      <i className="fa-solid fa-circle-check"></i>Documentation
+                      and Reporting
                     </li>
                   </ul>
                 </div>

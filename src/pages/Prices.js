@@ -139,7 +139,7 @@ const Prices = () => {
               <div className="col-xl-3 col-lg-3 col-md-3">
                 <div className="get-start-inner-sec">
                   <h3>
-                    Get Started <i class="fas fa-long-arrow-alt-right"></i>
+                    Get Started <i className="fas fa-long-arrow-alt-right"></i>
                   </h3>
 
                   <ul className="get-started-ul-sec">
@@ -283,7 +283,7 @@ const Prices = () => {
             <div className="row">
               <div className="col-3 m-auto">
                 <h3>
-                  Get Started <i class="fas fa-long-arrow-alt-right"></i>
+                  Get Started <i className="fas fa-long-arrow-alt-right"></i>
                 </h3>
               </div>
               <div className="col-3">

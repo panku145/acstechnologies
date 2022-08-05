@@ -168,7 +168,7 @@ const EmailMarketing = () => {
                     <p className="em-sec4-heding">
                       Template designing according to requirements
                     </p>
-                    <p class="em-sec4-pera">
+                    <p className="em-sec4-pera">
                       We will create a professional informative email template
                       design according to the latest trend of the B2B market
                       which will help to add more subscribers to your business.
@@ -185,7 +185,7 @@ const EmailMarketing = () => {
                     >
                       <img src={LM} alt="" className="TemplateDesign" />
                       <p className="em-sec4-heding">List Management</p>
-                      <p class="em-sec4-pera">
+                      <p className="em-sec4-pera">
                         Handling the email list of subscribers and growing it
                         with promising and loyal customers, to ensure good
                         engagement
@@ -199,7 +199,7 @@ const EmailMarketing = () => {
                       <p className="em-sec4-heding">
                         Content that reaches the minds of people
                       </p>
-                      <p class="em-sec4-pera">
+                      <p className="em-sec4-pera">
                         Our experienced content marketing team will write the
                         best email marketing campaign content for you.
                       </p>
@@ -214,7 +214,7 @@ const EmailMarketing = () => {
                       <p className="em-sec4-heding">
                         Regular Monitoring of the result
                       </p>
-                      <p class="em-sec4-pera">
+                      <p className="em-sec4-pera">
                         Continuous monitoring of responses to estimate the
                         effectiveness of your campaign, and making satisfactory
                         changes in the campaign, whenever required.
@@ -226,7 +226,7 @@ const EmailMarketing = () => {
                     >
                       <img src={DEP} alt="" className="TemplateDesign" />
                       <p className="em-sec4-heding">Deployment</p>
-                      <p class="em-sec4-pera">
+                      <p className="em-sec4-pera">
                         Execution & deployment of the email marketing strategy
                         to reach the target audience more effectively to get
                         engagements.

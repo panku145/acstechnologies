@@ -43,15 +43,15 @@ const Net = () => {
 
                 <ul className="hire-sap-ul">
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Develop a dedicated
-                    team of developers.
+                    <i className="fa-solid fa-circle-check"></i>Develop a
+                    dedicated team of developers.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Work Across Global
-                    Time Zones.
+                    <i className="fa-solid fa-circle-check"></i>Work Across
+                    Global Time Zones.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Can be tracked
+                    <i className="fa-solid fa-circle-check"></i>Can be tracked
                     through project management tools.
                   </li>
                 </ul>
@@ -74,21 +74,22 @@ const Net = () => {
                 <h3 className="duties-heading">Benefits of using Dotnet</h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Easy development.
+                    <i className="fa-solid fa-circle-check"></i>Easy
+                    development.
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Scalability.
+                    <i className="fa-solid fa-circle-check"></i>Scalability.
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>OOPS Support.
+                    <i className="fa-solid fa-circle-check"></i>OOPS Support.
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Unified MVC and Web
-                    API FrameWorks.
+                    <i className="fa-solid fa-circle-check"></i>Unified MVC and
+                    Web API FrameWorks.
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Assisting end-users
-                    with bug fixing and troubleshooting procedures.
+                    <i className="fa-solid fa-circle-check"></i>Assisting
+                    end-users with bug fixing and troubleshooting procedures.
                   </li>
                 </ul>
               </div>

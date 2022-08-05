@@ -38,7 +38,7 @@ const Footer = () => {
                       href="https://goo.gl/maps/DpoaswgJWdjgLcBp6"
                       target="_blank"
                     >
-                      View <i class="fa-solid fa-location-dot"></i>
+                      View <i className="fa-solid fa-location-dot"></i>
                     </a>
                   </li>
                 </ul>
@@ -58,7 +58,7 @@ const Footer = () => {
                       href="https://goo.gl/maps/WAK5Wcf5z8e4xKsJ9"
                       target="_blank"
                     >
-                      View <i class="fa-solid fa-location-dot"></i>
+                      View <i className="fa-solid fa-location-dot"></i>
                     </a>
                   </li>
                 </ul>

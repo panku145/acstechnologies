@@ -32,15 +32,15 @@ const NewReact = () => {
                 </p>
                 <ul className="hire-sap-ul">
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Develop a team of
-                    dedicated React developers
+                    <i className="fa-solid fa-circle-check"></i>Develop a team
+                    of dedicated React developers
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Work Across Global
-                    Time Zones.
+                    <i className="fa-solid fa-circle-check"></i>Work Across
+                    Global Time Zones.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Can be tracked
+                    <i className="fa-solid fa-circle-check"></i>Can be tracked
                     through project management tools.
                   </li>
                 </ul>
@@ -63,17 +63,18 @@ const NewReact = () => {
                 <h3 className="duties-heading">Benefits of Using React</h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Fast rendering
+                    <i className="fa-solid fa-circle-check"></i>Fast rendering
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Fewer HTTP requests
+                    <i className="fa-solid fa-circle-check"></i>Fewer HTTP
+                    requests
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Rich UI
+                    <i className="fa-solid fa-circle-check"></i>Rich UI
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Assisting end-users
-                    with bug fixing and troubleshooting procedures
+                    <i className="fa-solid fa-circle-check"></i>Assisting
+                    end-users with bug fixing and troubleshooting procedures
                   </li>
                 </ul>
               </div>

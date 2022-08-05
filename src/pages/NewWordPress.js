@@ -50,15 +50,15 @@ const NewWordPress = () => {
                 </p>
                 <ul className="hire-sap-ul">
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Build Your Dedicated
-                    Development Team
+                    <i className="fa-solid fa-circle-check"></i>Build Your
+                    Dedicated Development Team
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Work Across Global
-                    Time Zones.
+                    <i className="fa-solid fa-circle-check"></i>Work Across
+                    Global Time Zones.
                   </li>
                   <li className="sap-list">
-                    <i class="fa-solid fa-circle-check"></i>Can be tracked
+                    <i className="fa-solid fa-circle-check"></i>Can be tracked
                     through project management tools.
                   </li>
                 </ul>
@@ -83,15 +83,15 @@ const NewWordPress = () => {
                 </h3>
                 <ul className="duties-ul">
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Easy to Maintain
+                    <i className="fa-solid fa-circle-check"></i>Easy to Maintain
                   </li>
                   <li className="duties-list">
-                    <i class="fa-solid fa-circle-check"></i>Entirely
+                    <i className="fa-solid fa-circle-check"></i>Entirely
                     Customizable
                   </li>
                   <li className="duties-list d-flex">
-                    <i class="fa-solid fa-circle-check"></i>Assisting end-users
-                    with bug fixing and troubleshooting procedures
+                    <i className="fa-solid fa-circle-check"></i>Assisting
+                    end-users with bug fixing and troubleshooting procedures
                   </li>
                 </ul>
               </div>

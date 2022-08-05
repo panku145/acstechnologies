@@ -83,16 +83,16 @@ const DataCenter = () => {
                   </p>
                   <ul className="hire-sap-ul">
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Network
+                      <i className="fa-solid fa-circle-check"></i>Network
                       Administration.
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Network Support &
-                      Network Monitoring
+                      <i className="fa-solid fa-circle-check"></i>Network
+                      Support & Network Monitoring
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Network Security &
-                      Administration
+                      <i className="fa-solid fa-circle-check"></i>Network
+                      Security & Administration
                     </li>
                   </ul>
                 </div>
@@ -119,33 +119,33 @@ const DataCenter = () => {
                   <h3 className="duties-heading">CORE Responsibilities</h3>
                   <ul className="duties-ul">
                     <li className="duties-list flex-list mb-3">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
                       Monitoring server and computer performance, security, and
                       uptime in data centers
                     </li>
                     <li className="duties-list flex-list mb-3">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
                       Monitoring and managing network operations and resolving
                       network problems when they occur.
                     </li>
                     <li className="duties-list flex-list mb-3 d-flex">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
                       End-to-end visibility of all data center components,
                       including computers, storage, networks, and software
                     </li>
                     {/* <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Troubleshooting
+                      <i className="fa-solid fa-circle-check"></i>Troubleshooting
                       and Resolution
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Alarm Handling and
+                      <i className="fa-solid fa-circle-check"></i>Alarm Handling and
                       Escalation:
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Client Interaction
+                      <i className="fa-solid fa-circle-check"></i>Client Interaction
                     </li>
                     <li className="duties-list d-flex">
-                      <i class="fa-solid fa-circle-check"></i>Documentation and
+                      <i className="fa-solid fa-circle-check"></i>Documentation and
                       Reporting
                     </li> */}
                   </ul>

@@ -14,22 +14,6 @@ import Loader from "../components/Loader";
 import emailJs from "emailjs-com";
 
 const Contact = () => {
-  function submitForm(e) {
-    e.preventDefault();
-
-    emailJs
-      .sendForm(
-        "service_erp8toi",
-        "template_1ua1iwd",
-        e.target,
-        "user_2SAcb0CZsLc7ZE6gdP16Y"
-      )
-      .then((res) => {
-        console.log(res);
-      })
-      .catch((err) => console.log(err));
-  }
-
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -60,6 +44,8 @@ const Contact = () => {
     resolver: yupResolver(schema),
   });
 
+  // errors ? "yes error" : "no error";
+
   const [display, setDisplay] = useState({
     display1: "block",
     display5: "none",
@@ -79,6 +65,23 @@ const Contact = () => {
       })
       .catch((err) => console.log(err));
   };
+
+  function submitForm(e) {
+    e.preventDefault();
+
+    emailJs
+      .sendForm(
+        "service_erp8toi",
+        "template_1ua1iwd",
+        e.target,
+        "user_2SAcb0CZsLc7ZE6gdP16Y"
+      )
+      .then((res) => {
+        onSubmit();
+        console.log(res);
+      })
+      .catch((err) => console.log(err));
+  }
 
   // const next2 = (e) => {
   //   e.preventDefault();
@@ -127,7 +130,7 @@ const Contact = () => {
           <div className="container info-block ">
             <div className="row">
               <div className="col">
-                <form onSubmit={handleSubmit(onSubmit)}>
+                <form onSubmit={submitForm}>
                   <div className=" contact-info text-start">
                     <h5 className="text-center py-3">Basic Information</h5>
                     {ContactFormModel.inputs.map((input, key) => {
@@ -136,6 +139,7 @@ const Contact = () => {
                           <label>
                             {input.label} <span>(Required)</span>
                             <input
+                              required
                               type={input.type}
                               name={input.name}
                               placeholder={input.placeholder}

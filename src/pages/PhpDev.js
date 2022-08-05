@@ -78,16 +78,16 @@ const PhpDev = () => {
                   </p>
                   <ul className="hire-sap-ul">
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>40 successfully
-                      completed projects
+                      <i className="fa-solid fa-circle-check"></i>40
+                      successfully completed projects
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i> 7+ years in PHP
-                      web development
+                      <i className="fa-solid fa-circle-check"></i> 7+ years in
+                      PHP web development
                     </li>
                     <li className="sap-list">
-                      <i class="fa-solid fa-circle-check"></i>Work Across Global
-                      Time Zones.
+                      <i className="fa-solid fa-circle-check"></i>Work Across
+                      Global Time Zones.
                     </li>
                   </ul>
                 </div>
@@ -109,25 +109,27 @@ const PhpDev = () => {
                   <h3 className="duties-heading"> Benefits of using PHP</h3>
                   <ul className="duties-ul">
                     <li className="duties-list flex-list mb-3">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>Tested,
-                      proven and trusted
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
+                      Tested, proven and trusted
                     </li>
                     <li className="duties-list flex-list mb-3">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>Platform
-                      independent
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
+                      Platform independent
                     </li>
                     <li className="duties-list flex-list mb-3">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>Supports
-                      all servers
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>
+                      Supports all servers
                     </li>
                     <li className="duties-list flex-list mb-3 d-flex">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i> Secured
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>{" "}
+                      Secured
                     </li>
                     <li className="duties-list flex-list mb-3 d-flex">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i> Speedy
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>{" "}
+                      Speedy
                     </li>
                     <li className="duties-list flex-list mb-3 d-flex">
-                      <i class="fa-solid fa-circle-check why-acs-i"></i>{" "}
+                      <i className="fa-solid fa-circle-check why-acs-i"></i>{" "}
                       Maintenance
                     </li>
                   </ul>
