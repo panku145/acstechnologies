@@ -224,6 +224,31 @@ const Slider = () => {
                 </div>
               </div>
             </div>
+            <div className="carousel-item " data-bs-interval="3000">
+              <div className="container">
+                <div className="row item-row">
+                  <div className="col-md-6 text-end m-auto  col-sm-12">
+                    <img
+                      src={slider6}
+                      className="d-block carousel-img"
+                      alt="carousel-img"
+                    />
+                  </div>
+                  <div className="col-md-6 px-5">
+                    <div className="carousel-caption  ">
+                      <h1 className="text-animated-one">Edutech Services</h1>
+                      <p className="text-animated-two">
+                        As an EduTech provider we offer online education
+                        services for Pre-K12 and higher education. We have a
+                        team of Subject matter experts working in QnA, Text book
+                        solution and Video Solution projects.
+                      </p>
+                      <div className="underline"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <button
             className="carousel-control-prev"
